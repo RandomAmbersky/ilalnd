@@ -5,7 +5,7 @@
 * [Базовые правила](rules/bazovie_pravila.md)
 * [Шаблоны](papers/shablony.md)
 * [Сырье](papers/syrje.md)
-* [Фазы Истории](history/fazi_istorii.md)
+* [Времена Истории](history/fazi_istorii.md)
 * [Личности](lichnosti.md)
 * [Рей Паркер](papers/peoples/rei_parker.md)
 * [Синяя Борода](papers/peoples/sinyaya_boroda.md)
