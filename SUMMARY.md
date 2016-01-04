@@ -3,5 +3,5 @@
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
 * [Базовые правила](rules/bazovie_pravila.md)
-* [шаблоны](papers/shablony.md)
+* [Шаблоны](papers/shablony.md)
 
