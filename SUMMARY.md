@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [First Chapter](chapter1.md)
-* Базовые правила
+* [Базовые правила](rules/bazovie_pravila.md)
 
