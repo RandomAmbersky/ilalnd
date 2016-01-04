@@ -7,4 +7,5 @@
 * [Шаблоны](papers/shablony.md)
 * [Сырье](papers/syrje.md)
 * [Синяя Борода](papers/peoples/sinyaya_boroda.md)
+* Рей Паркер
 
