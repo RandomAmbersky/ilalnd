@@ -5,5 +5,5 @@
 * [Базовые правила](rules/bazovie_pravila.md)
 * [Фазы Истории](history/fazi_istorii.md)
 * [Шаблоны](papers/shablony.md)
-* [Сырье](papes/syrje.md)
+* [Сырье](papers/syrje.md)
 
