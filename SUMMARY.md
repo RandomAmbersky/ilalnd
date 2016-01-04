@@ -8,5 +8,5 @@
 * [Сырье](papers/syrje.md)
 * [Синяя Борода](papers/peoples/sinyaya_boroda.md)
 * [Рей Паркер](papers/peoples/rei_parker.md)
-* Личности
+* [Личности](lichnosti.md)
 
