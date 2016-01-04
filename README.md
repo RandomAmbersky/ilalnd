@@ -1,4 +1,5 @@
-My Awesome Book
+Immortal Land
 =======
+### .. или победа монеток над кубами и здравым смыслом
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Название "Земли бессмертных" - это просто рабочее название. Мы это просто называли "игра в котов"
