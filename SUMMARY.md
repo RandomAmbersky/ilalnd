@@ -10,6 +10,6 @@
    * [Лорд Дред](papers/peoples/lord_dred.md)
    * [Рей Паркер](papers/peoples/rei_parker.md)
    * [Синяя Борода](papers/peoples/sinyaya_boroda.md)
-* [Фракции](fraktsii.md)
 * Внутренний мир
+* [Фракции](fraktsii.md)
 
