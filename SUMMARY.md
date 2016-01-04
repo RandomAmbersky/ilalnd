@@ -14,4 +14,5 @@
    * [Внутренний мир](papers/sides/vnutrennii_mir.md)
    * [роботы лорда Дреда](papers/sides/roboty_lorda_dreda_md.md)
    * [Мастера](papers/sides/mastera.md)
+* Часть историческо-бумажная
 
