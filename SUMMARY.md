@@ -6,7 +6,7 @@
 * [Фазы Истории](history/fazi_istorii.md)
 * [Шаблоны](papers/shablony.md)
 * [Сырье](papers/syrje.md)
+* [Личности](lichnosti.md)
 * [Синяя Борода](papers/peoples/sinyaya_boroda.md)
 * [Рей Паркер](papers/peoples/rei_parker.md)
-* [Личности](lichnosti.md)
 
