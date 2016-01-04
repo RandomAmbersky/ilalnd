@@ -6,4 +6,5 @@
 * [Фазы Истории](history/fazi_istorii.md)
 * [Шаблоны](papers/shablony.md)
 * [Сырье](papers/syrje.md)
+* Синяя Борода
 
