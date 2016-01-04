@@ -9,5 +9,4 @@
 * [Личности](lichnosti.md)
    * [Рей Паркер](papers/peoples/rei_parker.md)
    * [Лорд Дред](papers/peoples/lord_dred.md)
-* [Синяя Борода](papers/peoples/sinyaya_boroda.md)
-
+   * [Синяя Борода](papers/peoples/sinyaya_boroda.md)
