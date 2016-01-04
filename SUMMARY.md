@@ -4,7 +4,7 @@
 * [Часть правильная](chapter1.md)
    * [Обозначения](rules/oboznacheniya.md)
    * [Базовые правила](rules/bazovie_pravila.md)
-   * Пример боя
+   * [Пример боя](primer_boya.md)
 * [Часть историческо-бумажная](chapter2.md)
    * [Времена Истории](history/fazi_istorii.md)
    * [Шаблоны](papers/shablony.md)
