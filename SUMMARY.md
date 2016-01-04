@@ -4,7 +4,7 @@
 * [Часть правильная](chapter1.md)
    * [Базовые правила](rules/bazovie_pravila.md)
 * [Часть историческо-бумажная](chapter2.md)
-* [Времена Истории](history/fazi_istorii.md)
+   * [Времена Истории](history/fazi_istorii.md)
 * [Шаблоны](papers/shablony.md)
 * [Сырье](papers/syrje.md)
 * [Личности](lichnosti.md)
