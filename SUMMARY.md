@@ -12,5 +12,5 @@
    * [Синяя Борода](papers/peoples/sinyaya_boroda.md)
 * [Фракции](fraktsii.md)
    * [Внутренний мир](papers/sides/vnutrennii_mir.md)
-   * [роботы лорда Дреда](papers/sides/roboty_lorda_dreda.md)
+   * [роботы лорда Дреда](papers/sides/roboty_lorda_dreda_md.md)
 
