@@ -3,6 +3,7 @@
 * [Введение](README.md)
 * [Часть правильная](chapter1.md)
    * [Базовые правила](rules/bazovie_pravila.md)
+* [Часть историческо-бумажная](chapter2.md)
 * [Шаблоны](papers/shablony.md)
 * [Сырье](papers/syrje.md)
 * [Времена Истории](history/fazi_istorii.md)
@@ -14,5 +15,4 @@
    * [Внутренний мир](papers/sides/vnutrennii_mir.md)
    * [роботы лорда Дреда](papers/sides/roboty_lorda_dreda_md.md)
    * [Мастера](papers/sides/mastera.md)
-* [Часть историческо-бумажная](chapter2.md)
 
